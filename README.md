@@ -6,7 +6,7 @@
 
 ## 打开与分享
 
-**[在线打开NPO结构探索器](https://anthonyhanxiangding-lab.github.io/npo-structure-explorer/)** · [GitHub仓库](https://github.com/anthonyhanxiangding-lab/npo-structure-explorer)
+**[在线打开NPO结构探索器](https://leahli0107.github.io/npo-structure-explorer/)** · [GitHub仓库](https://github.com/leahli0107/npo-structure-explorer)
 
 直接打开`NPO结构探索器.html`或`index.html`。模型、代码、样式、资料全部内嵌，不依赖网络或CDN；外部来源链接在点击时联网。3D视图需要支持WebGL的现代浏览器及硬件加速。手机也可浏览。
 
